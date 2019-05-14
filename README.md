@@ -1,5 +1,7 @@
 # Burial Records
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4e0e31671b494297a1a292905fea6a3b)](https://app.codacy.com/app/TownofChapelHill/cemetery-records?utm_source=github.com&utm_medium=referral&utm_content=townofchapelhill/cemetery-records&utm_campaign=Badge_Grade_Dashboard)
+
 ## Burial Records Aggregator
 
 ### Goal 
